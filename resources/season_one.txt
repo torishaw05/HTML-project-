@@ -1,7 +1,7 @@
-Navigation Links : 
-- Text : "Home",       href: "index.html" 
-- Text : "Characters", href: "characters.html" 
-- Text : "Season One", href: "season_one.html" 
+Navigation Links :
+- Text : "Home",       href: "index.html"
+- Text : "Characters", href: "characters.html"
+- Text : "Season One", href: "season_one.html"
 
 Star vs. the Forces of Evil
 
@@ -19,7 +19,6 @@ March 30, 2015
 
 02
 "Party With a Pony"
-March 30, 2015
 
 03
 "Match Maker"
@@ -110,8 +109,8 @@ September 14, 2015
 September 21, 2015
 
 
-    
-Footer Navigation Links : 
-- Text : "Home",       href: "index.html" 
-- Text : "Characters", href: "characters.html" 
-- Text : "Season One", href: "season_one.html" 
+
+Footer Navigation Links :
+- Text : "Home",       href: "index.html"
+- Text : "Characters", href: "characters.html"
+- Text : "Season One", href: "season_one.html"
